@@ -1,4 +1,4 @@
-## Hello Networking
+## Multithreaded web server
 
 > A program to open a single threaded web server on the port provided
 
